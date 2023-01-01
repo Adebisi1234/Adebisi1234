@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/adebisitobil" target="blank"><img src="https://img.shields.io/twitter/follow/adebisitobil?logo=twitter&style=for-the-badge" alt="adebisitobil" /></a> </p>
 
-- 🔭 I’m currently working on [Theodinproject](theodinproject.com)
+- 🔭 I’m currently working on [Theodinproject](fullstackopen.com/en)
 
-- 🌱 I’m currently learning **Javascript and React**
-
-- 👨‍💻 All of my projects are available at [adebisi1234.github.io/my-portfolio](adebisi1234.github.io/my-portfolio)
+- 🌱 I’m currently learning **THE MERN STACK**
 
 - 📫 How to reach me **ti.adebisi@gmail.com**
 
