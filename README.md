@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/adebisitobil" target="blank"><img src="https://img.shields.io/twitter/follow/adebisitobil?logo=twitter&style=for-the-badge" alt="adebisitobil" /></a> </p>
 
-- 🔭 I’m currently working on [fullstackopen](fullstackopen.com/en)
+- 🔭 I’m currently working on [Clone: A full stack twitter clone](https://mtwitter-clone.netlify.app)
 
 - 🌱 I’m currently learning **THE MERN STACK**
 
