@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/adebisitobil" target="blank"><img src="https://img.shields.io/twitter/follow/adebisitobil?logo=twitter&style=for-the-badge" alt="adebisitobil" /></a> </p>
 
-- 🔭 I’m currently working on [Incredibox: A web version of the game](https://incrediboxy.netlify.app) and contributing to open source baby
+- 🔭 I’m currently working on [Incredibox: A web version of the game](https://incrediboxy.netlify.app) and contributing to open-source baby
 
-- 🌱 I’m currently learning **The complicated part of development**
+- 🌱 I’m currently learning **The complicated part of software development**
 
 - 📫 How to reach me **ti.adebisi@gmail.com**
 
