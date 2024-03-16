@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tobiloba</h1>
-<h3 align="center">A passionate full-stack developer from Nigeria</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/adebisitobil" target="blank"><img src="https://img.shields.io/twitter/follow/adebisitobil?logo=twitter&style=for-the-badge" alt="adebisitobil" /></a> </p>
 
-- 🔭 I’m currently working on [Blackboard: An interactive, collaborative online board](https://myblackboard.vercel.app) and contributing to open-source
-
-- 🌱 I’m currently learning **The complicated part of software development**
+- 🔭 I’m currently working on [Blackboard: An interactive, collaborative online board](https://myblackboard.vercel.app)
+  
+- 🌱 I’m currently learning **[Temporal](https://temporal.io/) and other microservices technologies**
 
 - 📫 How to reach me **ti.adebisi@gmail.com**
 
