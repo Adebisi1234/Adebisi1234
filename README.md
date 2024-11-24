@@ -7,7 +7,7 @@
 
 - 🔭 I’m maintaining [Blackboard: An interactive, collaborative online board](https://tobiloba.me/blackboard)
   
-- 🌱 I’m currently learning **C++ and how HMR works in web servers**
+- 🌱 I’m currently learning **C++ and web components**
 
 - 📫 How to reach me **ti.adebisi@gmail.com**
 
