@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/adebisitobil" target="blank"><img src="https://img.shields.io/twitter/follow/adebisitobil?logo=twitter&style=for-the-badge" alt="adebisitobil" /></a> </p>
 
-- 🔭 I’m currently working on [sweet-server: A fast static web server that supports hmr](https://github.com/Adebisi1234/sserver) && [self_driving_car simulation](https://github.com/Adebisi1234/self_driving_car)
+- 🔭 I’m currently working on [Space rocket: My take at the Android 14 easter egg](https://github.com/Adebisi1234/space-rocket) && [self_driving_car simulation](https://github.com/Adebisi1234/self_driving_car)
 
-- 🔭 I’m maintaining [Blackboard: An interactive, collaborative online board](https://tobiloba.me/blackboard)
+- 🔭 I’m maintaining [Blackboard: An interactive, collaborative online board](https://tobiloba.me/blackboard) & [sweet-server: A fast static web server that supports hmr](https://github.com/Adebisi1234/sserver)
   
-- 🌱 I’m currently learning **C++ and web components**
+- 🌱 I’m currently learning **C++ and Java**
 
 - 📫 How to reach me **ti.adebisi@gmail.com**
 
